@@ -1,0 +1,4 @@
+[
+  {"role": "human", "content": "I want to request a refund for order #123"},
+  {"role": "ai", "content": "Your refund request has been initiated"}
+]
